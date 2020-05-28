@@ -5,7 +5,7 @@
 
 ## Exploratory Visualization
 
-![Exploratory Visualization](VizOverviewExplorative.png)
+[![Exploratory Visualization](VizOverviewExplorative.png)](https://thoughtfulmind.github.io/Interactive-Data-Vis-Sp2020/Project1_ExploratoryVisualization/)
 
 ![](ExploratoryViz.png)  
 
@@ -16,7 +16,7 @@
 
 ## Narrative Visualization
 
-![Narrative visualization](VizOverviewNarrative.png)
+[![Narrative visualization](VizOverviewNarrative.png)](https://thoughtfulmind.github.io/Interactive-Data-Vis-Sp2020/Project2NarrativeVisualization/)
 
 ![](NarrativeViz.png)  
 
