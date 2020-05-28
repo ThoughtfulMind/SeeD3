@@ -6,7 +6,7 @@ Exploratory Visualization
 
 ![Exploratory Visualization](VizOverviewExplorative.png)
 
-![]()
+![](D3VoronoiNY.png)
 
 Narrative Visualization
 
