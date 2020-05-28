@@ -1,9 +1,9 @@
 
-# Small Plane Accidents 1962 - 2019  
+## Small Plane Accidents 1962 - 2019  
 
 
 
-## Exploratory Visualization
+### Exploratory Visualization
 
 [![Exploratory Visualization](VizOverviewExplorative.png)](https://thoughtfulmind.github.io/Interactive-Data-Vis-Sp2020/Project1_ExploratoryVisualization/)
 
@@ -14,7 +14,7 @@
 
 
 
-## Narrative Visualization
+### Narrative Visualization
 
 [![Narrative visualization](VizOverviewNarrative.png)](https://thoughtfulmind.github.io/Interactive-Data-Vis-Sp2020/Project2NarrativeVisualization/)
 ![](NarrativeViz.png)  
