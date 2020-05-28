@@ -17,7 +17,6 @@
 ## Narrative Visualization
 
 [![Narrative visualization](VizOverviewNarrative.png)](https://thoughtfulmind.github.io/Interactive-Data-Vis-Sp2020/Project2NarrativeVisualization/)
-
 ![](NarrativeViz.png)  
 
 **View [Narrative Visualization](https://thoughtfulmind.github.io/Interactive-Data-Vis-Sp2020/Project2NarrativeVisualization/).**
