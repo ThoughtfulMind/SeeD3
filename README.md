@@ -9,7 +9,7 @@
 
 ![](ExploratoryViz.png)  
 
-View [Exploratory Visualization](https://thoughtfulmind.github.io/Interactive-Data-Vis-Sp2020/Project1_ExploratoryVisualization/).  
+**View [Exploratory Visualization](https://thoughtfulmind.github.io/Interactive-Data-Vis-Sp2020/Project1_ExploratoryVisualization/).** 
 
 
 
@@ -20,4 +20,4 @@ View [Exploratory Visualization](https://thoughtfulmind.github.io/Interactive-Da
 
 ![](NarrativeViz.png)  
 
-View [Narrative Visualization](https://thoughtfulmind.github.io/Interactive-Data-Vis-Sp2020/Project1_ExploratoryVisualization/).
+**View [Narrative Visualization](https://thoughtfulmind.github.io/Interactive-Data-Vis-Sp2020/Project1_ExploratoryVisualization/).**
