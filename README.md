@@ -1,4 +1,4 @@
-# SeeD3
+
 # D3 Visualizations: Small Plane Accidents 1962 - 2019  
 
 
@@ -7,7 +7,9 @@
 
 ![Exploratory Visualization](VizOverviewExplorative.png)
 
-![](ExploratoryViz.png)    
+![](ExploratoryViz.png)  
+
+View [Exploratory Visualization](https://thoughtfulmind.github.io/Interactive-Data-Vis-Sp2020/Project1_ExploratoryVisualization/).
 
 
 
@@ -15,4 +17,6 @@
 
 ![Narrative visualization](VizOverviewNarrative.png)
 
-![](NarrativeViz.png)
+![](NarrativeViz.png)  
+
+View [Narrative Visualization](https://thoughtfulmind.github.io/Interactive-Data-Vis-Sp2020/Project1_ExploratoryVisualization/).
