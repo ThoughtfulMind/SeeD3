@@ -6,7 +6,6 @@
 ### Exploratory Visualization
 
 [![Exploratory Visualization](VizOverviewExplorative.png)](https://thoughtfulmind.github.io/Interactive-Data-Vis-Sp2020/Project1_ExploratoryVisualization/)
-
 ![](ExploratoryViz.png)  
 
 **View [Exploratory Visualization](https://thoughtfulmind.github.io/Interactive-Data-Vis-Sp2020/Project1_ExploratoryVisualization/).** 
